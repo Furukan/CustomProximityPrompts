@@ -1,0 +1,11 @@
+# Wally
+Packages/
+ServerPackages/
+DevPackages/
+wally.lock
+
+# Rojo Sourcemap
+sourcemap.json
+
+# MacOS
+.DS_Store
